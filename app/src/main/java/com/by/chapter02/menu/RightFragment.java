@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-import com.by.chapter02.R;
+
 
 import java.io.Serializable;
 import java.util.List;

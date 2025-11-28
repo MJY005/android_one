@@ -7,9 +7,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
-import com.by.chapter02.menu.MenuActivity;
-import com.by.chapter02.store.DBActivity;
-import com.by.chapter02.store.StoreActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {

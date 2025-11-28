@@ -4,7 +4,7 @@ import android.content.Context;
 import android.view.*;
 import android.widget.*;
 
-import com.by.chapter02.R;
+
 
 import java.util.*;
 

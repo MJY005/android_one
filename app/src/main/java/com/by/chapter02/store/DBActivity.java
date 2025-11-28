@@ -13,8 +13,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.by.chapter02.R;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 public class DBActivity extends AppCompatActivity implements

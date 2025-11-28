@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.by.chapter02.R;
+
 
 public class LeftFragment extends Fragment {
     @Override
